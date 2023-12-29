@@ -1,69 +1,74 @@
 export const NAME = 'Julio Acin';
 
-export const DESIGNATION = `Full Stack Developer | Block chain Developer | App Developer| Tech Blogger`;
+export const DESIGNATION = `Blockchain Developer and Smart Contract Auditor`;
 
 export const DETAILS = {
   Residence: 'Mardrid',
   City: 'Boadilla del Monte',
-  Age: '33',
+  Age: '30',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
+    title: 'Blockchain Developer',
     level: '95%',
+  },
+  {
+    title: 'Smart Contract Auditor',
+    level: '20%',
+  },
+  {
+    title: 'MERN Stack Developer',
+    level: '75%',
   },
   {
     title: 'Backend Developer',
-    level: '94%',
+    level: '50%',
   },
   {
     title: 'Frontend Developer',
-    level: '100%',
+    level: '60%',
   },
   {
     title: 'App Developer',
-    level: '95%',
+    level: '40%',
   },
-  {
-    title: 'Block chain Developer',
-    level: '98%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '99%',
-  },
+  // {
+  //   title: 'Technical Blogger',
+  //   level: '99%',
+  // },
 ];
 
 export const TECH_STACK = [
   'ReactJS',
-  'JavaScript',
+  // 'JavaScript',
   'NextJS',
   'Python',
   'Web3',
   'Solidity',
-  'Kotlin',
-  'Android',
+  // 'Kotlin',
+  // 'Android',
   'Rust',
-  'JAVA',
-  'TypeScript',
+  'C++',
+  // 'JAVA',
+  // 'TypeScript',
   'NodeJS',
-  'Redux',
-  'Zustand',
-  'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
+  // 'Redux',
+  // 'Zustand',
+  // 'CSS',
+  // 'SCSS',
+  // 'TailwindCSS',
+  // 'Ant Design',
   'Go',
-  'Next UI',
+  // 'Next UI',
   'REST API',
   'MongoDB',
   'MySQL',
   'Git',
   'GitHub',
-  'Jira',
-  'Figma',
-  'Adobe XD',
+  // 'Jira',
+  // 'Figma',
+  // 'Adobe XD',
 ];
 
 export const CONTACTS = {

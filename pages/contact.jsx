@@ -27,8 +27,16 @@ const Contact = () => {
                                 <span className='text-LightGray md:text-sm'>Mardrid</span>
                             </div>
                             <div className="flex justify-between items-center">
-                                <span className='md:text-base'>Platform:</span>
-                                <span className='text-LightGray md:text-sm'>Code4rena</span>
+                                <span className='md:text-base'>&nbsp;</span>
+                                <span className='text-LightGray md:text-sm'>&nbsp;</span>
+                            </div>
+                            <div className="flex justify-between items-center">
+                                <span className='md:text-base'>&nbsp;</span>
+                                <span className='text-LightGray md:text-sm'>&nbsp;</span>
+                            </div>
+                            <div className="flex justify-between items-center">
+                                <span className='md:text-base'>&nbsp;</span>
+                                <span className='text-LightGray md:text-sm'>&nbsp;</span>
                             </div>
                         </div>
                         <div className="card_stylings rounded-xl w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
@@ -37,8 +45,16 @@ const Contact = () => {
                                 <span className='text-LightGray text-sm'>noahsflood908@gmail.com</span>
                             </div>
                             <div className="flex justify-between items-center">
-                                <span className='md:text-base'>Linkedin:</span>
-                                <span className='text-LightGray text-sm'>reachJulio</span>
+                                <span className='md:text-base'>Skype:</span>
+                                <span className='text-LightGray text-sm'>live:.cid.3a60f92e1a22249b</span>
+                            </div>
+                            <div className="flex justify-between items-center">
+                                <span className='md:text-base'>Discord:</span>
+                                <span className='text-LightGray text-sm'>sweetdream0118</span>
+                            </div>
+                            <div className="flex justify-between items-center">
+                                <span className='md:text-base'>Telegram:</span>
+                                <span className='text-LightGray text-sm'>@SweetDreamhaha</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Phone:</span>
@@ -52,8 +68,8 @@ const Contact = () => {
                     <a className='hover:scale-125 ease-in-out duration-700' href="https://github.com/mymiracle0118?tab=repositories&q=&type=&language=&sort=" target='_blank' rel="noreferrer"><FaGithub /></a>
                     <a className='hover:scale-125 ease-in-out duration-700' href="" target='_blank' rel="noreferrer"><FaLinkedin /></a>
                     <a className='hover:scale-125 ease-in-out duration-700' href="" target='_blank' rel="noreferrer"><FaTwitter /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700 hidden sm:block' href="" target='_blank' rel="noreferrer"><Fiverr_Icon /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700 text-2xl sm:text-4xl mt-1' href="#" target='_blank' rel="noreferrer"><SiUpwork /></a>
+                    {/* <a className='hover:scale-125 ease-in-out duration-700 hidden sm:block' href="" target='_blank' rel="noreferrer"><Fiverr_Icon /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700 text-2xl sm:text-4xl mt-1' href="#" target='_blank' rel="noreferrer"><SiUpwork /></a> */}
                 </div>
 
 
@@ -108,7 +124,7 @@ const Contact = () => {
             >
                 <div className='flex flex-col items-center justify-center'>
                     <h1 className='text-Green font-bold text-2xl'>In Progress</h1>
-                    <a className='underline text-Snow' target='_blank' href='#'>Be the one to integrate this!</a>
+                    <a className='underline text-Snow' target='_blank' href='https://github.com/mymiracle0118'>Be the one to integrate this!</a>
                 </div>
             </Modal>
             <Footer />

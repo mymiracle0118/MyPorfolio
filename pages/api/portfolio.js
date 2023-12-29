@@ -22,7 +22,7 @@ const portfolio = [
     },
     {
         id: 1,
-        projectName: "ReactJS",
+        projectName: "Top10",
         url: "https://www.top10.com/",
         image: "images/projects/p1.jpg",
         projectDetail: "Top10.com is a comparison platform that brings you useful top 10 lists covering a wide variety of products and services that can help you save time and money",
@@ -43,7 +43,7 @@ const portfolio = [
     },
     {
         id: 2,
-        projectName: "Laravel",
+        projectName: "E-collar",
         url: "https://www.thedogline.com.au/",
         image: "images/projects/p2.jpg",
         projectDetail: "Specialists in E-collars for dogs - Full Guarantees - Find out more about our quality bark collars, dog fences and dog training collars | Buy electric collars from The Dog Line to make training your dog easier. ",
@@ -64,7 +64,7 @@ const portfolio = [
     },
     {
         id: 3,
-        projectName: "Wordpress",
+        projectName: "PolyTrading",
         url: "https://www.poly-consult.com/",
         image: "images/projects/p3.jpg",
         projectDetail: "Poly Trading Consulting",
@@ -85,7 +85,7 @@ const portfolio = [
     },
     {
         id: 4,
-        projectName: "Blockchain(1)",
+        projectName: "CryptoKitty",
         url: "https://www.cryptokitties.co/",
         image: "images/projects/p4.jpg",
         projectDetail: "Collect and trade CryptoKitties in one of the world’s first blockchain games. Breed your rarest cats to create the purrfect furry friend. The future is meow!",
@@ -94,19 +94,19 @@ const portfolio = [
                 tech: "Blockchain"
             },
             {
-                tech: "Python"
+                tech: "Web3"
             },
             {
                 tech: "Solidity"
             },
-            {
-                tech: "Figma"
-            },
+            // {
+            //     tech: "Figma"
+            // },
         ]
     },
     {
         id: 5,
-        projectName: "Blockchain(2)",
+        projectName: "Fat Ape Club",
         url: "https://fatapeclub.io/",
         image: "images/projects/p5.jpg",
         projectDetail: "Welcome to the Fat Ape Club, a tribe of 9,999 obese apes that partied too much and didn’t exercise enough.",
@@ -120,14 +120,14 @@ const portfolio = [
             {
                 tech: "Solidity"
             },
-            {
-                tech: "TailwindCSS"
-            },
+            // {
+            //     tech: "TailwindCSS"
+            // },
         ]
     },
     {
         id: 6,
-        projectName: "App",
+        projectName: "EASYBUDDY",
         url: "https://play.google.com/store/apps/details?id=com.easybuddysolution",
         image: "images/projects/p6.jpg",
         projectDetail: "EASYBUDDY is an app through which you can book services at your home.",
